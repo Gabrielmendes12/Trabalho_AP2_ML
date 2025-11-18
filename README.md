@@ -77,7 +77,7 @@ Clique no botão "Run App" no RStudio ou execute:
 shiny::runApp("app.R")
 
 
-📊 Sobre os Dados
+## 📊 Sobre os Dados
 
 Os dados utilizados (vendas-combustiveis-m3-1990-2025.csv) contêm registros mensais de vendas de derivados de petróleo e biocombustíveis pelos distribuidores, discriminados por unidade da federação e produto.
 
