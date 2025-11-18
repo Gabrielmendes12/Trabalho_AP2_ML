@@ -1,10 +1,10 @@
 # Trabalho_AP2_ML
 
-⛽ Dashboard de Previsão de Vendas de Combustíveis
+# ⛽ Dashboard de Previsão de Vendas de Combustíveis
 
 Este projeto consiste em uma aplicação web interativa desenvolvida em R e Shiny que analisa dados históricos de vendas de combustíveis no Brasil (1990-2025) e utiliza um modelo de Machine Learning (Regressão Linear) para prever tendências futuras de volume de vendas.
 
-📋 Funcionalidades
+## 📋 Funcionalidades
 
 O painel oferece as seguintes ferramentas de análise:
 
@@ -22,7 +22,7 @@ Previsão (Machine Learning): Interface para input de um ano futuro (ex: 2030) c
 
 Tabela de Dados: Visualização bruta dos dados filtrados com busca e paginação.
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 Linguagem: R
 
@@ -36,7 +36,7 @@ DT: Para tabelas de dados interativas.
 
 stats: Para o modelo de Regressão Linear (lm).
 
-📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
 ├── vendas-combustiveis-m3-1990-2025.csv  # Dataset original (Fonte dos dados)
 ├── treinar_modelo.R                      # Script para processar dados e treinar a IA
@@ -45,7 +45,7 @@ stats: Para o modelo de Regressão Linear (lm).
 └── README.md                             # Documentação do projeto
 
 
-🚀 Como Executar
+## 🚀 Como Executar
 
 Para rodar este projeto localmente, siga os passos abaixo:
 
